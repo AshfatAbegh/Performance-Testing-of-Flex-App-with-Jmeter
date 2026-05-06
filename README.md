@@ -143,7 +143,6 @@ For more information about the test scenarios and results, refer to:
 ## 📅 Project Timeline
 
 - **Repository Created**: July 1, 2025
-- **Last Updated**: April 20, 2026
 
 ## 📈 Performance Testing Best Practices
 
@@ -161,7 +160,3 @@ For more information about the test scenarios and results, refer to:
 - Monitor server resources during large-scale tests (15,000 users)
 - Review error logs alongside test reports for comprehensive analysis
 
----
-
-**Created by**: AshfatAbegh  
-**Repository**: [Performance-Testing-of-Flex-App-with-Jmeter](https://github.com/AshfatAbegh/Performance-Testing-of-Flex-App-with-Jmeter)
